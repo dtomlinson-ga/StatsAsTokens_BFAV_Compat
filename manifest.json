@@ -1,0 +1,10 @@
+{
+  "Name": "Stats As Tokens BFAV Compatibility Patch",
+  "Author": "Vertigon",
+  "Version": "0.1.0",
+  "Description": "Compability patch to fix some stats not being adjusted correctly by BFAV.",
+  "UniqueID": "Vertigon.StatsAsTokens_BFAV_Compat",
+  "EntryDll": "StatsAsTokens_BFAV_Compat.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

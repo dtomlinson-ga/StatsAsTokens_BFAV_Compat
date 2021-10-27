@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<AssemblyName>StatsAsTokens_BFAV_Compat</AssemblyName>
+		<RootNamespace>StatsAsTokens_BFAV_Compat</RootNamespace>
+		<Version>0.1.0</Version>
+		<TargetFramework>net452</TargetFramework>
+		<EnableHarmony>true</EnableHarmony>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="3.3.0" />
+		<Reference Include="ContentPatcher">
+			<HintPath>D:\Games\SteamLibrary\steamapps\common\Stardew Valley\Mods\ContentPatcher\ContentPatcher.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="BetterFarmAnimalVariety">
+			<HintPath>D:\Games\SteamLibrary\steamapps\common\Stardew Valley\Mods\.BetterFarmAnimalVariety 3.2.4-unofficial.kelvinrosa-mouseypounds-elbe\BetterFarmAnimalVariety\BetterFarmAnimalVariety.dll</HintPath>
+			<Private>False</Private>
+		</Reference>		
+	</ItemGroup>
+
+	<ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
+
+</Project>
