@@ -13,11 +13,7 @@
 		<Reference Include="ContentPatcher">
 			<HintPath>D:\Games\SteamLibrary\steamapps\common\Stardew Valley\Mods\ContentPatcher\ContentPatcher.dll</HintPath>
 			<Private>False</Private>
-		</Reference>
-		<Reference Include="BetterFarmAnimalVariety">
-			<HintPath>D:\Games\SteamLibrary\steamapps\common\Stardew Valley\Mods\.BetterFarmAnimalVariety 3.2.4-unofficial.kelvinrosa-mouseypounds-elbe\BetterFarmAnimalVariety\BetterFarmAnimalVariety.dll</HintPath>
-			<Private>False</Private>
-		</Reference>		
+		</Reference>	
 	</ItemGroup>
 
 	<ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
